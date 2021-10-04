@@ -16,5 +16,4 @@ fun main() {
     for ((key, value) in mutableMap) {
         println("$key to $value after using remove method")
     }
-
 }
